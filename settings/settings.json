@@ -1,0 +1,15 @@
+{
+    "system": {
+        "api_id": "YOUR API ID",
+        "api_hash": "YOUR API HASH",
+        "bot_token": "YOUR BOT TOKEN"
+    },
+    "handlers": {
+        "YOUR HANDLER FILE": [
+            "YOUR HANDLER FUNCTION"
+        ]
+    },
+    "app": {
+        "YOUR CUSTOM KEY": "YOUR CUSTOM VALUE"
+    }
+}
